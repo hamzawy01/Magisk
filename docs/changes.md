@@ -1,3 +1,4 @@
+![Screenshot_٢٠٢٥٠١٢٦_٠٠٣٦١٧_Instagram](https://github.com/user-attachments/assets/006cdb2f-19cf-445e-bb18-b61fe14c973c)
 # Magisk Changelog
 
 ### v28.1
